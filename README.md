@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Mohsen Qadeer 👋
 
-<!--
-**mohsen-qadeer/mohsen-qadeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical QA Engineer | SaaS Platforms | API Testing | SQL | AI-Assisted Debugging**
 
-Here are some ideas to get you started:
+I break things professionally — then make sure they stay fixed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With 3+ years of experience in SaaS platforms, I work at the intersection of
+QA, technical support, and active development. I test, I debug, I fix, and I
+document everything.
+
+---
+
+## 🔧 What I Work With
+
+- **Testing:** Manual Testing, API Testing (REST), Regression, UAT
+- **Tools:** Postman, Swagger, JIRA, ClickUp, Cursor AI
+- **Database:** SQL, Relational Database Validation
+- **Dev:** Bug Fixes, Requirements Analysis, JavaScript snippets
+- **AI:** Cursor AI for debugging, prompt engineering, log analysis
+
+---
+
+## 🚀 Currently
+
+- 🌱 Building my technical skills in bug fixing and requirements
+- 💡 Exploring the intersection of **AI + QA**
+- 🔍 Focused on SaaS platforms — scheduling, payments, API validation
+- 📍 Based in Pakistan — open to remote opportunities
+
+---
+
+## 📂 Featured Projects
+
+*(Coming soon — repos being built)*
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/mohsen-qadeer)
+- 📧 qadeer.mohsen@gmail.com
